@@ -4,7 +4,7 @@
  *
  * Copyright (c) 2010 David Coallier <david.coallier@gmail.com>
  *
- * Examples at http://wiki.github.com/davidcoallier/include-json-html/
+ * Example at http://github.com/davidcoallier/include-html/tree/master/example/
  */
 (function($) {
     $.fn.include = function(settings) {
