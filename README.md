@@ -3,6 +3,8 @@ jQuery plugin include-html
 
 **This is not a fancy plugin to load remote (remote domain) html or anything complex. It loads VERY simple HTML files that are accessible on your webserver.**
 
+**Do not rely on this if you want good SEO. It will kill your SEO**
+
 This jQuery plugin is there to help developers including remote HTML elements into their web pages. 
 
 Using the plugin a developer will be able to either create an HTML file and include within a page. 
