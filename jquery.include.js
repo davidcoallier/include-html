@@ -20,3 +20,7 @@
         return this;
     };
 })(jQuery);
+
+$(document).ready(function() {
+    $('include').include();
+});

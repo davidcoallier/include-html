@@ -25,11 +25,4 @@ Then where you want to include your remote html, you'll need to use the followin
     
 __Please note, this is not a self-closing tag. It is primordial to close it.__
 
-After doing this, you will need to add a jQuery document ready handler to handle all the `<include>` tags in a page. The document ready handler looks like:
-
-	$(document).ready(function() {
-		// Here's how one parses all the include tags
-		$('include').include();
-	});
-
 Hope you enjoy.
