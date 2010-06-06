@@ -16,11 +16,10 @@
                 container.html(data);
             });
         });
-
         return this;
     };
+    
+    $(document).ready(function() {
+        $('include').include();
+    });
 })(jQuery);
-
-$(document).ready(function() {
-    $('include').include();
-});
